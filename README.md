@@ -3,7 +3,7 @@
 Welcome to IntelliFarm! This project aims to revolutionize traditional farming by integrating smart technologies like Machine Learning and PyQt5 to enhance crop and fertilizer management. Our solution provides farmers with intelligent recommendations, helping them make data-driven decisions to increase yield, reduce waste, and promote sustainable farming practices.
 
 ### Features
-Crop Prediction: Suggests the best crops to plant based on N,P,K, weather, and other environmental factors.
+Crop Prediction: Suggests the best crops to plant based on N,P,K, weather, and other environmental factors.\n
 Fertilizer Recommendation: Recommends the optimal type and amount of fertilizer to use for maximum yield.
 User-Friendly Interface: Easy-to-navigate GUI built with PyQT5, offering a seamless experience for farmers.
 Data-Driven Insights: Uses machine learning models to analyze data and generate actionable insights.
